@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Admin;
+
 class Pegawai {
     public int $nip;
     public string $nama;
@@ -14,12 +16,12 @@ class Pegawai {
     }
 
     public function cekIn(): bool {
-        // Implementasi logika cekIn
+        
         return true;
     }
 
     public function cekOut(): bool {
-        // Implementasi logika cekOut
+        
         return true;
     }
 
