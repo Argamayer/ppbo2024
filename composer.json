@@ -1,0 +1,13 @@
+{
+    "name": "argamayer/ppbo2024",
+    "description": "Merupakan Package untuk latihan pemograman berorientasi objek",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\":"App"
+        }
+    }
+
+}
