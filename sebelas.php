@@ -9,9 +9,9 @@ $dian = new Dosen(
     "Dian Prawira",
     62111111,
     "Jln Purnama",
-    "0013118405"
+    "1000121184001"
 );
 
 $dian->mengajar();
-
+echo $dian->getNoHp()
 ?>
